@@ -1,0 +1,9 @@
+{
+  "name": "chukki",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Lines in motion: a drawing language and animation engine for live diagrams, written by people and by AI agents.",
+  "scripts": {
+    "start": "node tools/serve.js"
+  }
+}
